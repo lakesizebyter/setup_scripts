@@ -2,7 +2,7 @@ yarn create nuxt-app $1
 
 cd $1
 
-yarn add -D node-sass sass-loader@10.1.1 @nuxtjs/style-resources
+yarn add -D sass sass-loader@10.1.1 @nuxtjs/style-resources
 yarn add -D pug pug-plain-loader
 yarn add nuxt-property-decorator
 yarn add @nuxtjs/axios
